@@ -1,7 +1,7 @@
-👋 Hi, I’m @May-NweThiri
+👋 Hi, I’m May!!
 
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning new data analysis techniques and improving my Python skills.
+- 🌱 I’m currently learning new data analysis techniques and improving my Programming skills such as Python, Java, HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on projects related to data analysis and predictive modeling.
 - 📫 You can reach me on GitHub: [May-NweThiri](https://github.com/May-NweThiri)
 - 📧 You can also contact me via email: nwe.may@ue-germany.de
