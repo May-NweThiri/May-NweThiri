@@ -1,12 +1,8 @@
-👋 Hi, I’m May!!
+I am a motivated Computer Science student with over seven years of leadership experience in the educational sector and passionate about technology, particularly in data analysis, machine learning, and programming  with a keen interest in exploring and applying innovative techniques to solve real-world problems. Skilled at collaboration, adaptability, and creative problem-solving, I am a fast learner, eager to acquire new skills and embrace fresh challenges in a dynamic and innovative environment.
 
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning new data analysis techniques and improving my Programming skills such as Python, Java, HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on projects related to data analysis and predictive modeling.
-- 📫 You can reach me on GitHub: [May-NweThiri](https://github.com/May-NweThiri)
-- 📧 You can also contact me via email: nwe.may@ue-germany.de
+Currently, I am dedicated to expanding my knowledge and honing my skills in data analysis and programming. I am actively learning new methodologies and technologies, including Python, SQL, Power BI, Java, HTML, CSS, JavaScript and TypeScript  to enhance my proficiency.
 
-Feel free to connect with me if you share similar interests or have any questions related to data science and machine learning!
+I am seeking opportunities to collaborate on projects focused on data analysis, predictive modeling, and machine learning applications. I am committed to contributing my expertise and collaborating with like-minded professionals to create impactful solutions.
 
 
 <!---
