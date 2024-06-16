@@ -1,8 +1,6 @@
-I am a motivated Second year Computer Science student with over seven years of leadership experience in the educational sector and passionate about technology, particularly in data analysis, machine learning, and programming  with a keen interest in exploring and applying innovative techniques to solve real-world problems. Skilled at collaboration, adaptability, and creative problem-solving, I am a fast learner, eager to acquire new skills and embrace fresh challenges in a dynamic and innovative environment.
+I am a driven second-year computer science student with over seven years of leadership experience in the field of education. I have a strong interest in exploring and using cutting-edge approaches to solve problems in the real world and am particularly passionate about data analysis, machine learning, and programming. I am a quick learner who is ready to take on new challenges in a dynamic and creative environment. I am skilled at working with others, adapting to new situations, and solving creative problems.
+Currently, I am dedicated to expanding my knowledge and honing my skills in data analysis and programming. I am actively learning new methodologies and technologies, including Python, SQL, Power BI,  HTML, CSS and  JavaScript  to enhance my proficiency.
 
-Currently, I am dedicated to expanding my knowledge and honing my skills in data analysis and programming. I am actively learning new methodologies and technologies, including Python, SQL, Power BI, Java, HTML, CSS, JavaScript and TypeScript  to enhance my proficiency.
-
-I am seeking opportunities to collaborate on projects focused on data analysis, predictive modeling, and machine learning applications. I am committed to contributing my expertise and collaborating with like-minded professionals to create impactful solutions.
 
 
 <!---
