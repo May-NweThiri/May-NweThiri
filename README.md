@@ -1,5 +1,10 @@
- I’m May  👋
+I’m May  👋  
 I am a computer science graduate with a strong passion for exploring and applying cutting-edge techniques to solve real-world problems. My primary interests lie in data analysis, machine learning, and programming.
+
+![Coding Animation](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)
+
+As a quick learner, I thrive on tackling new challenges in dynamic and creative environments...
+
 
 As a quick learner, I thrive on tackling new challenges in dynamic and creative environments. I am a collaborative team player, adaptable to new situations, and enjoy solving complex problems efficiently.
 
