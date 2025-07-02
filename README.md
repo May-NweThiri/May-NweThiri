@@ -1,7 +1,11 @@
-I am a computer science student who havs a strong interest in exploring and using cutting-edge approaches to solve problems in the real world. I am interested in data analysis, machine learning, and programming. As a quick learner, I am eager to tackle new challenges in dynamic and creative environment. I am very good at working with team, adapting to new situations, and solving problems.
+ I’m May  👋
+I am a computer science graduate with a strong passion for exploring and applying cutting-edge techniques to solve real-world problems. My primary interests lie in data analysis, machine learning, and programming.
 
-Currently, I am dedicated to expanding my knowledge and my skills in data analysis,  programming,  Machine Learning and Deep learning. I am actively learning new methodologies and trying new projects to enhance my proficiency. I am seeking great opportunities to apply my skills and learn from real-world projects.
+As a quick learner, I thrive on tackling new challenges in dynamic and creative environments. I am a collaborative team player, adaptable to new situations, and enjoy solving complex problems efficiently.
 
+Currently, I am focused on expanding my expertise in data analysis, programming, machine learning, and deep learning. I actively explore new methodologies and work on projects to enhance my skills and practical knowledge.
+
+I’m eager to contribute to meaningful projects and gain hands-on experience that pushes my boundaries while delivering value.
 
 <!---
 May-NweThiri/May-NweThiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
