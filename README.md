@@ -1,7 +1,7 @@
 I’m May  👋  
 I am a computer science graduate with a strong passion for exploring and applying cutting-edge techniques to solve real-world problems. My primary interests lie in data analysis, machine learning, and programming.
 
-![Coding Animation](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)
+![Coding Animation]([https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif](https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh))
 
 As a quick learner, I thrive on tackling new challenges in dynamic and creative environments...
 
