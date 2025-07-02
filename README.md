@@ -12,6 +12,8 @@ Currently, I am focused on expanding my expertise in data analysis, programming,
 
 I’m eager to contribute to meaningful projects and gain hands-on experience that pushes my boundaries while delivering value.
 
+![Coding Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR5N2Y0OG05bmZyejA4enNvc3RmY25vc2JxYmphem5tbDB5cXhmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
+
 <!---
 May-NweThiri/May-NweThiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
