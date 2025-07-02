@@ -6,7 +6,7 @@ I am a computer science graduate with a strong passion for exploring and applyin
 As a quick learner, I thrive on tackling new challenges in dynamic and creative environments...
 
 
-As a quick learner, I thrive on tackling new challenges in dynamic and creative environments. I am a collaborative team player, adaptable to new situations, and enjoy solving complex problems efficiently.
+I am a collaborative team player, adaptable to new situations, and enjoy solving complex problems efficiently.
 
 Currently, I am focused on expanding my expertise in data analysis, programming, machine learning, and deep learning. I actively explore new methodologies and work on projects to enhance my skills and practical knowledge.
 
