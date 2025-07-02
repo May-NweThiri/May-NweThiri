@@ -1,14 +1,10 @@
-Hi, I’m May  👋  
-I am a computer science graduate with a strong passion for exploring and applying cutting-edge techniques to solve real-world problems. My primary interests lie in data analysis, machine learning, and programming.
+Hi, I am May !!
 
-As a quick learner, I thrive on tackling new challenges in dynamic and creative environments...
+I’m a recent graduate in Digital Business and Data Science with hands-on experience in machine learning, NLP, and business analytics. I’ve built scalable ML pipelines, analyzed over 560K customer reviews for sentiment, and created real-time dashboards to visualize insights.
 
+With a background in leadership as a former general manager, I bring strong teamwork, problem-solving, and cost optimization skills to technical projects. I’m passionate about combining data science and software engineering to develop impactful, efficient solutions.
 
-I am a collaborative team player, adaptable to new situations, and enjoy solving complex problems efficiently.
-
-Currently, I am focused on expanding my expertise in data analysis, programming, machine learning, and deep learning. I actively explore new methodologies and work on projects to enhance my skills and practical knowledge.
-
-I’m eager to contribute to meaningful projects and gain hands-on experience that pushes my boundaries while delivering value.
+I’m currently looking for opportunities as a Software Engineer, Data Scientist, or ML Engineer where I can grow my skills and contribute to meaningful projects.
 
 ![Coding Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR5N2Y0OG05bmZyejA4enNvc3RmY25vc2JxYmphem5tbDB5cXhmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
 
